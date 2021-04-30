@@ -1,0 +1,9 @@
+{
+	"name": "testdatafactory619",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ddc0f7b7-80f7-4a65-839e-ebf736509695",
+		"tenantId": "2d350137-40dd-4696-9623-263ade8c8a51"
+	}
+}
